@@ -41,4 +41,3 @@ Features
 - JWT Filter Implementation
 
 Create a `.env` file and configure:
-
