@@ -39,5 +39,3 @@ Features
 - Password Encryption using BCrypt
 - Stateless Session Management
 - JWT Filter Implementation
-
-Create a `.env` file and configure:
